@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@styles/*": [
+        "styles/*"
+      ],
+      "@components/*": [
+        "components/*"
+      ],
+      "@functions/*": [
+        "functions/*"
+      ],
+      "@actions/*": [
+        "actions/*"
+      ],
+      "@redux/*": [
+        "redux/*"
+      ],
+    }
+  }
+}
